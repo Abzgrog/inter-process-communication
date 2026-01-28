@@ -1,5 +1,3 @@
-
-Вот оформленная версия вашей документации в формате Markdown, готовая для вставки в README.md на GitHub. Я структурировал её так, чтобы она выглядела как профессиональный Open Source проект.
 IPC Data Processing Pipeline
 ![alt text](https://img.shields.io/badge/language-C-blue.svg)
 
@@ -110,4 +108,5 @@ Error handling focuses on resource cleanup rather than network recovery.
 Complexity: Required deep understanding of System V IPC, signal handling, and file descriptor manipulation (dup2).
 📚 References
 Advanced Programming in the UNIX Environment (W. Richard Stevens)
+
 Linux Man pages: shmget(2), semop(2), pipe(2), socket(7)
